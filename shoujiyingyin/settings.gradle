@@ -1,0 +1,2 @@
+include ':app', ':StartAllPlayer', ':vitamio', ':vitamio-sample', ':xutils', ':xUtils3_sample', ':jcvideoplayer-lib'
+include ':xListView'
